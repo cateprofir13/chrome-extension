@@ -1,0 +1,9 @@
+{
+  "name": "Note Clipper",
+  "description": "Clip notes from anywhere",
+  "version": "0.1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "menu.html"    
+  }
+}
